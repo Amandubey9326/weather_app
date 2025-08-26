@@ -7,10 +7,10 @@ A simple and responsive weather application built with React that allows users t
 
 🔍 Search weather by city name
 
-📍 Displays temperature, humidity, wind speed, and weather description
+📍 Displays temperature, 
 
 🌡️ Supports metric (°C)  units
 
 🕒 Real-time weather data
 
-💡 Responsive UI (mobile-friendly)
+💡 Responsive UI 
