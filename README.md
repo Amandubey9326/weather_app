@@ -9,7 +9,7 @@ A simple and responsive weather application built with React that allows users t
 
 📍 Displays temperature, humidity, wind speed, and weather description
 
-🌡️ Supports metric (°C) or imperial (°F) units
+🌡️ Supports metric (°C)  units
 
 🕒 Real-time weather data
 
